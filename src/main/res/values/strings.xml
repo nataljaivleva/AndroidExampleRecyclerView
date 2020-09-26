@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="logo_description">Logo application</string>
+    <string name="category_title">Category: %s</string>
+    <string name="book_cover">Book Cover</string>
+    <string name="image">Image</string>
+
+    <string-array name="categories">
+        <item>Programming</item>
+        <item>Database</item>
+        <item>Web</item>
+    </string-array>
+</resources>
